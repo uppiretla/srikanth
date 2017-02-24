@@ -1,0 +1,726 @@
+1  pw
+    2  pwd
+    3  clear
+    4  pwd
+    5  clear
+    6  mkdir d1
+    7  pwd
+    8  clear
+    9  ls
+   10  ls -a
+   11  clear
+   12  ls -l
+   13  clear
+   14  pwd
+   15  mkdir D1 D2 D3 
+   16  touch w1 w2
+   17  cd D1
+   18  mkdir ZZ1
+   19  touch 1
+   20  cd ..
+   21  mkdir D2/ZZ2/touch 2
+   22  mkdir D2/ZZ2 touch 2
+   23  ls -l
+   24  ls D2
+   25  D2 ZZ2
+   26  ls ZZ2
+   27  clear
+   28  ls -l
+   29  clear
+   30  ls -l
+   31  rm 2
+   32  rm w1
+   33  rm w1 w2
+   34  pwd
+   35  rm -r D1
+   36  rm -r D2 D3 2
+   37  ls -l
+   38  clear
+   39  ls
+   40  ls -l
+   41  clear
+   42  who
+   43  who am i
+   44  tty
+   45  pwd
+   46  tty
+   47  man
+   48  2
+   49  man ls
+   50  who -a
+   51  who am i
+   52  clear
+   53  %a
+   54  whoami
+   55  kjg
+   56  clear
+   57  pwd
+   58  clear
+   59  rm -r *
+   60  ls
+   61  ls -l
+   62  date
+   63  -r
+   64  who
+   65  whoami
+   66  who --help
+   67  who -a
+   68  who -b
+   69  clear
+   70  date
+   71  date -r
+   72  ls
+   73  ls-l
+   74  ls -l
+   75  mkdir home
+   76  ls
+   77  date -r home
+   78  date --help
+   79  clear
+   80  man date
+   81  %b
+   82  clear
+   83  echo
+   84  echo 1111
+   85  echo $user
+   86  echo $USER
+   87  echo welcome SUSER
+   88  echo "fuck u "
+   89  cleaer
+   90  clear
+   91  tput
+   92  tput cup 20 20
+   93  tput cup -20 -20
+   94  tput cup 1 1
+   95  clear
+   96  echo fuck u
+   97  clear
+   98  which ls
+   99  which cp
+  100  clear
+  101  bc
+  102  bin
+  103  8/2
+  104  bc
+  105  clear
+  106  ls
+  107  echo $USER
+  108  pwd
+  109  ls
+  110  who
+  111  write srikanth11 pts/1
+  112  q?
+  113  touch q1 q2 q3 qfre7
+  114  ls q*
+  115  ls q?
+  116  ls q??
+  117  ls q??*
+  118  ls q[2f]*
+  119  clear
+  120  touch new
+  121  vi new
+  122  who
+  123  pwd
+  124  write srikanth11 pts/0
+  125  cat > new
+  126  cat new
+  127  \n
+  128  cat new
+  129  cat>new
+  130  cat new
+  131  clear
+  132  cat>new
+  133  cat new
+  134  sort<new
+  135  clear
+  136  touch q1 q2
+  137  mkdir D1
+  138  ls
+  139  clear
+  140  rm -r *
+  141  clear
+  142  pwd
+  143  ls
+  144  clear
+  145  mkdir D1 D2 D3
+  146  ls
+  147  touch a b c 
+  148  ls
+  149  mv a D1
+  150  mv b c D1
+  151  ls D1
+  152  ls
+  153  ls -l
+  154  cd D2
+  155  touch d e f
+  156  cd ..
+  157  ls D2
+  158  cd D1
+  159  mkdir D11
+  160  ls
+  161  cd ..
+  162  ls
+  163  ls D1
+  164  rm -r D11
+  165  cd D1
+  166  rm -r D11
+  167  ls D1
+  168  ls
+  169  cd ..
+  170  ls
+  171  ls -l
+  172  ls D1
+  173  ls D2
+  174  ls D3
+  175  cd D3
+  176  cd ..
+  177  touch D3/g/h
+  178  touch D3/h
+  179  touch D3/g D3/i
+  180  ls D3
+  181  cd ..
+  182  ls -l
+  183  clear
+  184  ls -l
+  185  ls
+  186  pwd
+  187  ls D1
+  188  cd d1
+  189  cd D1
+  190  pwd
+  191  cd srikanth
+  192  cd srikanth11
+  193  ls
+  194  clear
+  195  who
+  196  write srikanth11 pts/1
+  197  date
+  198  clear
+  199  tty
+  200  man tty
+  201  whoami
+  202  who
+  203  who -a
+  204  clear
+  205  which a
+  206  which ls
+  207  bc
+  208  cal
+  209  clear
+  210  ls
+  211  rm -r *
+  212  ls
+  213  touch q1 q2w q123 q1wf3
+  214  q*
+  215  q?
+  216  clear
+  217  ls
+  218  ls -l
+  219  ls q*
+  220  ls q??
+  221  ls q[1]*
+  222  ls q[1]
+  223  q[1]?
+  224  ls q[1]?
+  225  ls q[2]?
+  226  q[!1]
+  227  ls q[!1]*
+  228  clear
+  229  vi text
+  230  nano text
+  231  gedit text
+  232  cat > text1
+  233  cat text1
+  234  cat text
+  235  cp text1 text
+  236  cat text
+  237  cp text1 > text
+  238  cat text1>text
+  239  cat text
+  240  cp text1>text
+  241  cat text>text1
+  242  cat text
+  243  cat text1
+  244  cat text
+  245  pwd
+  246  ls
+  247  ls text~
+  248  cat text~
+  249  cat text1
+  250  rm -r *
+  251  clear
+  252  ls
+  253  cat > new
+  254  cat > new1
+  255  cat new1>new
+  256  cat new
+  257  cat new1
+  258  cat new
+  259  clear
+  260  cat new1
+  261  cat > new
+  262  cat new
+  263  cat new1
+  264  cat new1>new
+  265  cat new
+  266  cat new>>new1
+  267  cat new1
+  268  cat >> new
+  269  cat new
+  270  clear
+  271  who
+  272  clear
+  273  g gjgfg
+  274  ngkl
+  275  njfmg
+  276  nfg
+  277  nknfn'f'
+  278  g
+  279  lg
+  280  clar
+  281  clear
+  282  bb
+  283  clear
+  284  mkdir SYSTEM
+  285  ls
+  286  who
+  287  which
+  288  pwd
+  289  clear
+  290  cd SYSTEM
+  291  mkdir HARDWARE SOFTWARE 
+  292  cd HARDWARE
+  293  mkdir INPUT OUTPUT
+  294  cd INPUT
+  295  touch mouse scanner
+  296  cd.
+  297  cd..
+  298  pwd
+  299  cd OUTPUT
+  300  clear
+  301  pwd
+  302  ls
+  303  cd..
+  304  ls cd..
+  305  pwd
+  306  ped
+  307  clear
+  308  cd ..
+  309  cd OUTPUT
+  310  pwd
+  311  touch printer vdu
+  312  pwd
+  313  cd ..
+  314  cd..
+  315  cd ..
+  316  cd SOFTWARE
+  317  wkdir APPL SYS 
+  318  mkdir APPL SYS 
+  319  cd APP
+  320  pwd
+  321  cd APPL
+  322  touch wordstar lotus 
+  323  cd SYS
+  324  pwd
+  325  cd SYS
+  326  cd ..
+  327  ls
+  328  cd SYS
+  329  os linker
+  330  touch os linker
+  331  cd ..
+  332  q??
+  333  ls q??
+  334  pwd
+  335  ls ??
+  336  ls ??*
+  337  ls
+  338  ls .doc
+  339  ls *.doc
+  340  clear
+  341  ls [l-s]
+  342  ls [l-s]*
+  343  ls [ls]*
+  344  clear
+  345  touch text1
+  346  man comp
+  347  man cmp
+  348  clar
+  349  clear
+  350  touch c1 
+  351  nano c1
+  352  nano c2
+  353  cat c1
+  354  cat c2
+  355  cmp c1 c2
+  356  comm c1 c2
+  357  nano c1
+  358  comm c1 c2
+  359  man comm
+  360  nano c1
+  361  nano c2
+  362  comm c1 c2
+  363  cat c1
+  364  cat c2
+  365  sort c1 c2
+  366  sort -d c1
+  367  clear
+  368  cat c1
+  369  sort c1 > c2
+  370  cat c2
+  371  clear
+  372  ls
+  373  ls -l
+  374  man wc
+  375  clear
+  376  start x
+  377  ls 
+  378  ls-l
+  379  ls -l
+  380  ls -l | cat >file1
+  381  cat file1
+  382  clear
+  383  cat file1
+  384  grep "rwx" file1
+  385  cd ..
+  386  ls -l
+  387  cd srikanth11
+  388  fuck you
+  389  clear
+  390  history
+  391  clear
+  392  tr --help
+  393  tr--help
+  394  ls -l | tr "[:blank:]" ","
+  395  ls -l | tr "[:blank:]" "@"
+  396  ls -l | tr "[:blank:]" ","
+  397  ls -l | tr-s "[:blank:]" ","
+  398  ls -l | tr -s "[:blank:]" ","
+  399  ls -l | tr -s "[:blank:]" "," | cut -f1,3,9 -d","
+  400  ls -l | tr -s "[:blank:]" "," | cut -f1,3,9 -d"," | tr "," "."
+  401  ls -l | tr -s "[:blank:]" "," | cut -f1,3,9 -d"," | tr "," "\t"
+  402  clear
+  403  gxip c1
+  404  clear
+  405  gzip c1
+  406  ls
+  407  gzip -c c2 > c3
+  408  ls -l
+  409  ls
+  410  gzip -c c2>c2.gz
+  411  ls -l
+  412  gzip -c c2>c2.gz\
+  413  ps
+  414  ps -c
+  415  ps -e
+  416  ps -e | grep "moz"
+  417  ps -e | grep "fire"
+  418  clear
+  419  pwd
+  420  ls hardwar
+  421  ls hardware
+  422  cleaer
+  423  clear
+  424  man ls
+  425  clear
+  426  ls -l 
+  427  clear
+  428  ls -l system
+  429  pwd
+  430  ls -l SYSTEM
+  431  ls-l | cd hardware
+  432  ls -l system  | cd hardware
+  433  clear
+  434  ls -l -r /
+  435  clear
+  436  cd..
+  437  cd ..
+  438  ls -l -r / HARDWARE
+  439  ls -R
+  440  ls -R hardware
+  441  clear
+  442  ls SYSTEM/HARDWARE -R
+  443  cd srikanth11
+  444  cd ..
+  445  ls srikanth11/SYSTEM/HARDWARE -R
+  446  man ls
+  447  clear
+  448  uname
+  449  who am i
+  450  uname
+  451  man uname
+  452  uname -v
+  453  ls /bin
+  454  claer
+  455  clear
+  456  man ls
+  457  ls -R /bin
+  458  clear
+  459  ls
+  460  ls -a
+  461  ls -R /boot
+  462  clear
+  463  ls -l -R /boot
+  464  clear
+  465  ls -l -R /boot
+  466  ls -R /boot
+  467  grep "vmluinz"
+  468  ls -R /bin
+  469  ls -R /boot | grep "vmlinuz"
+  470  clear
+  471  grep "^r"
+  472  ls
+  473  grep "^r" srikanth11
+  474  man grep
+  475  ls ???
+  476  pwd
+  477  ls
+  478  cd srikanth
+  479  cd srikanth11
+  480  pwd
+  481  ls
+  482  ls ???
+  483  clear
+  484  pwd
+  485  cd srikanth11
+  486  clear
+  487  nano file1
+  488  nano file2
+  489  ls
+  490  file1 >>file2
+  491  cat file1 >>file2
+  492  cat file2
+  493  cat file1
+  494  clear
+  495  ls
+  496  ls -1 | wc -l
+  497  ls -1 
+  498  man ls
+  499  ls -l
+  500  ls -l | grep "^-r" | wc -l
+  501  ls -l | grep "^-" | wc -l
+  502  ls -l | cat >c5
+  503  cat c5
+  504  clear
+  505  who
+  506  who am i
+  507  ls
+  508  rm "myfriend"*ped
+  509  pwd
+  510  ls
+  511  ls -d
+  512  ls -d -a
+  513  ls -l | grep "d"*
+  514  ls -l | grep ^"d"*
+  515  ls -l | grep "^d"*
+  516  ls -l | grep "^d"
+  517  claer
+  518  clear
+  519  pwd
+  520  cd ..
+  521  ls /etc | grep "^w"
+  522  cd srikanth11
+  523  ls -l | grep "^d"*
+  524  ls -l | grep "^d"
+  525  pwd
+  526  cd ..
+  527  ls /etc ???
+  528  cler
+  529  clear
+  530  ls /etc [???]
+  531  clear
+  532  ls /etc | grep "???"
+  533  ls /etc 
+  534  ls /etc | grep "[???["
+  535  ls /etc | grep "[???]"
+  536  ls /etc | grep ???
+  537  ls /etc | ls "???"
+  538  ls /etc | ls [???]
+  539  ls /etc | ls [*]
+  540  ls /etc | grep ???
+  541  pwd
+  542  cd bin
+  543  cd ..
+  544  ls
+  545  ls /etc
+  546  ls /etc | cat >et | ls ???
+  547  cat >et | ls ?
+  548  cat et
+  549  claer
+  550  clear
+  551  pwd
+  552  cd srikanth11
+  553  cd home
+  554  ls
+  555  cd srikanth11
+  556  ls
+  557  touch temp1 tempo temo34
+  558  ls /etc | grep "^....$"
+  559  ls /etc | grep "^temp[0-9]$"
+  560  ls /etc | grep "^temp*[0-9]$"
+  561  ls /etc | grep "^temp,*[0-9]$"
+  562  ls /etc | grep "^temp"
+  563  ls
+  564  ls /etc | grep "^temp"
+  565  ls /etc | grep "temp"
+  566  ls /etc | grep "*temp"
+  567  ls /etc | grep "tem"
+  568  ls  | grep "^temp"
+  569  ls  | grep "^temp"*
+  570  ls  | grep "^temp" [0-9]$
+  571  ls  | grep ^temp[0-9]$
+  572  touch temop5
+  573  ls  | grep ^temp[0-9]$
+  574  touch tempvkjdvn25
+  575  ls  | grep ^temp[0-9]$
+  576  ls  | grep ^temp*[0-9]$
+  577  ls  | grep ^temp.............[0-9]$
+  578  ls  | grep ^temp......[0-9]$
+  579  ls  | grep temp*[0-9]$
+  580  ls temp*[0-9]
+  581  clear
+  582  ls
+  583  touch C#
+  584  ls [cC]*
+  585  clear
+  586  who pwd
+  587  who
+  588  who : pwd
+  589  pwd
+  590  who : pwd
+  591  ls
+  592  cd ..
+  593  ls
+  594  cd ..
+  595  ls
+  596  cd etc
+  597  ls | grep ".config"
+  598  ls *.config
+  599  clear
+  600  whoami
+  601  who am i
+  602  echo ia ma fine
+  603  echo hii USERecho ia ma fine how r u
+  604  echo
+  605  clear
+  606  echo "hii $USER how r u"
+  607  which pwd
+  608  which mkdir
+  609  cal 2020
+  610  clear
+  611  man cal
+  612  cal
+  613  cal -h
+  614  cal
+  615  clear
+  616  man cal
+  617  pwd
+  618  cd..
+  619  cd ..
+  620  pwd
+  621  ls /var /log
+  622  ls /var/log
+  623  clear
+  624  pwd
+  625  cd home
+  626  cd srikanth11
+  627  cat >fruit
+  628  ln fruit veg
+  629  ls -ild fruit
+  630  ls -ild veg
+  631  cat veg
+  632  ls -i veg
+  633  ls -i fruit
+  634  gzip -c c2>c2.gz
+  635  ls -l
+  636  cat c2
+  637  cat c2.gz
+  638  clear
+  639  ls
+  640  clear
+  641  tar -cf d1.tar c2 c3
+  642  ls
+  643  cat d1.tar
+  644  clae
+  645  cleaer
+  646  clear
+  647  tar -cf d1.tar c2 c3cler
+  648  clar
+  649  clear
+  650  ps
+  651  ps -l
+  652  ps -f
+  653  ps -f -u srikanth11
+  654  ps -c
+  655  ps -e
+  656  jobs
+  657  ps
+  658  clear
+  659  ps
+  660  tty
+  661  date -r c1
+  662  ls
+  663  date -r c2
+  664  clear
+  665  date "%m"
+  666  date "+today is %a"
+  667  date "+today is %a %m %y"
+  668  time
+  669  date "+today is %a %m %y %r"
+  670  date "+today is %D"
+  671  clear
+  672  file c2
+  673  file c3
+  674  ls
+  675  file c5
+  676  file myfile
+  677  file system
+  678  file SYSTEM
+  679  write sri
+  680  write srikanth11
+  681  clear
+  682  ls -i
+  683  ls -R -i
+  684  clear
+  685  ls -l -i
+  686  clear
+  687  ls ??
+  688  ls????
+  689  ls ???????
+  690  ls ???
+  691  ls ?????????
+  692  ls
+  693  clear
+  694  rmdir
+  695  rmdir dirname
+  696  cp -i c2 c5
+  697  cat c5
+  698  catc2
+  699  cat c2
+  700  clear
+  701  rm -i c5
+  702  ls
+  703  rm -i c5
+  704  ls
+  705  clear
+  706  ls
+  707  cat fruit
+  708  cat veg
+  709  cat file1
+  710  slpit 2 c5
+  711  split -2 c5
+  712  cat c2
+  713  split -2 c2
+  714  cat c2
+  715  cat file1
+  716  ls -nl
+  717  ls -n
+  718  clear
+  719  ls -n
+  720  ls -nl
+  721  clear
+  722  history
+  723  ls
+  724  man wc
+  725  pwd
+  726  history | cat >assignment.txt
